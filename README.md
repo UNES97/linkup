@@ -17,6 +17,9 @@ AtlasChat is a high-performance chat application built with modern web technolog
 - **Real-time Communication**: Socket.IO
 - **ORM**: Sequelize
 
+### Storage
+- **File Storage**: Cloudflare R2
+
 ### DevOps and Infrastructure
 - **Containerization**: Docker
 - **CI/CD**: GitHub Actions
