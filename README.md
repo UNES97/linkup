@@ -1,26 +1,40 @@
-# AtlasChat
+# Atlas
 
-AtlasChat is a high-performance chat application built with modern web technologies to ensure real-time communication and scalability. 
+A meetings web application built with Vue.js, Node.js, and WebRTC.
 
-## Tech Stack
+## Project Overview
 
-### Frontend
-- **Framework**: Vue.js
-- **State Management**: Vuex
-- **Real-time Communication**: Socket.IO
-- **Styling**: Tailwind CSS
+Atlas is a web application designed to facilitate online meetings and video conferencing. The application will provide a user-friendly interface for scheduling and joining meetings, as well as features for real-time communication and collaboration.
 
-### Backend
-- **Runtime**: Node.js
-- **Framework**: Fastify
-- **Database**: SQL (e.g., PostgreSQL)
-- **Real-time Communication**: Socket.IO
-- **ORM**: Sequelize
+## Project Structure
 
-### Storage
-- **File Storage**: Cloudflare R2
+* `client`: The Vue.js frontend application
+* `server`: The Node.js backend server
 
-### DevOps and Infrastructure
-- **Containerization**: Docker
-- **CI/CD**: GitHub Actions
-- **Monitoring and Logging**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana)
+## Features
+
+* User authentication and authorization
+* Meeting scheduling and management
+* Real-time video conferencing with WebRTC
+* Chat and messaging functionality
+* Integration with calendar APIs (e.g. Google Calendar, Microsoft Exchange)
+
+## Technologies Used
+
+* Vue.js (frontend framework)
+* Node.js (backend server)
+* WebRTC (real-time communication)
+* Socket.io (real-time communication)
+* PGSQL (database)
+
+## Contributing
+
+Contributions are welcome! Please submit a pull request with your changes and a brief description of what you've added or fixed.
+
+## License
+
+Atlas is licensed under the MIT License.
+
+## Authors
+
+* [UNES97](https://github.com/UNES97)
