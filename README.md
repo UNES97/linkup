@@ -1,10 +1,10 @@
-# Atlas
+# LinkUp
 
 A meetings web application built with Vue.js, Node.js, and WebRTC.
 
 ## Project Overview
 
-Atlas is a web application designed to facilitate online meetings and video conferencing. The application will provide a user-friendly interface for scheduling and joining meetings, as well as features for real-time communication and collaboration.
+LinkUp is a web application designed to facilitate online meetings and video conferencing. The application will provide a user-friendly interface for scheduling and joining meetings, as well as features for real-time communication and collaboration.
 
 ## Project Structure
 
@@ -33,7 +33,7 @@ Contributions are welcome! Please submit a pull request with your changes and a 
 
 ## License
 
-Atlas is licensed under the MIT License.
+LinkUp is licensed under the MIT License.
 
 ## Authors
 
